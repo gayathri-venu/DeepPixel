@@ -5,11 +5,11 @@ where rock wins over paper , scissor wins over paper and paper wins over rock.
 
 This repository contains `play_with_computer` file to play it live.
 
-Preview:
+### Preview:
 ![image](https://github.com/Shweta0002/DeepPixel/blob/master/deeppixel/Rock%20paper%20scissor/output/play_game.png)
 <br><br>
 
-![image](https://github.com/Shweta0002/DeepPixel/blob/master/deeppixel/Rock%20paper%20scissor/output/play_game.png)
+![image](https://github.com/Shweta0002/DeepPixel/blob/master/deeppixel/Rock%20paper%20scissor/output/play.gif)
 
 ## Steps:
 
